@@ -1,8 +1,6 @@
 Application: FlashCards
-Final Project CSCC09
 Group Name: FlashCards
 Members: Prakhar Sharma, Ahmad Ali Shah, Zhiqi Chen
-Course: CSCC09
 
 Perosnal email: 
     -Ahmad: ahmadalishah1999@outlook.com
