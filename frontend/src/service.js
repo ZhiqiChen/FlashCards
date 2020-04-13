@@ -1,0 +1,5 @@
+class PostService {
+  static getPosts () {
+
+  }
+}
