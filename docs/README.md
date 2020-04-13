@@ -1,6 +1,6 @@
 Application: FlashCards
 Group Name: FlashCards
-Members: Prakhar Sharma, Ahmad Ali Shah, Zhiqi Chen
+Members: Prakhar Sharma, Ahmad Ali Shah, Zhiqi (Jackie) Chen
 
 Perosnal email: 
     -Ahmad: ahmadalishah1999@outlook.com
